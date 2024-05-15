@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "943284247649",
+    "firebase_url": "https://fishingapp3-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fishingapp3",
+    "storage_bucket": "fishingapp3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943284247649:android:45d201dc6af75295115e20",
+        "android_client_info": {
+          "package_name": "com.parasolka.fishingapp5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943284247649-c6fd0f89e9ij6lbga1qhle8mqmunv1f7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.parasolka.fishingapp5",
+            "certificate_hash": "dcb70c075e261f4a9cbbd3029392764d01d6b296"
+          }
+        },
+        {
+          "client_id": "943284247649-c9lme301693u7i7vdfhkf1h90986fraq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAreAJkFVmqTq4TF0HBuQ5RqpC1PFaGg48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943284247649-c9lme301693u7i7vdfhkf1h90986fraq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

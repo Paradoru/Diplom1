@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FishingApp5</string>
+    <string name="title_activity_videoimageplayer">videoimageplayer</string>
+    <string name="tab_text_1">Фото</string>
+    <string name="tab_text_2">Видео</string>
+    <string name="tab_text_3">Профиль</string>
+    <string name="default_web_client_id">Profile</string>
+</resources>
